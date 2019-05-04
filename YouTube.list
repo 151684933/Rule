@@ -1,7 +1,7 @@
 // Youtube
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
-HOST-KEYWORD,youtube
-HOST-SUFFIX,googlevideo.com
-HOST-SUFFIX,gvt2.com
-HOST-SUFFIX,youtu.be
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,youtu.be
